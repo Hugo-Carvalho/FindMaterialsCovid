@@ -1,0 +1,5 @@
+com\lh\ColetaDeMateriaisApplication.class
+com\lh\service\PesquisarMascara.class
+com\lh\controller\Controller.class
+com\lh\object\Materiais.class
+com\lh\utils\ControladoraSelenium.class
