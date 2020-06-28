@@ -1,3 +1,4 @@
+com\lh\config\WebMvcConfig.class
 com\lh\service\MaterialService.class
 com\lh\entity\Materiais.class
 com\lh\entity\Materiais_.class
