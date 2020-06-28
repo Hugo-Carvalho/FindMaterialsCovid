@@ -1,5 +1,6 @@
-C:\Users\Luan\Documents\NetBeansProjects\ColetaDeMaterias\src\main\java\com\lh\controller\Controller.java
-C:\Users\Luan\Documents\NetBeansProjects\ColetaDeMaterias\src\main\java\com\lh\service\PesquisarMascara.java
-C:\Users\Luan\Documents\NetBeansProjects\ColetaDeMaterias\src\main\java\com\lh\object\Materiais.java
-C:\Users\Luan\Documents\NetBeansProjects\ColetaDeMaterias\src\main\java\com\lh\utils\ControladoraSelenium.java
-C:\Users\Luan\Documents\NetBeansProjects\ColetaDeMaterias\src\main\java\com\lh\ColetaDeMateriaisApplication.java
+C:\Users\hugan\Documents\NetBeansProjects\FindMaterialsCovid\src\main\java\com\lh\entity\Materiais.java
+C:\Users\hugan\Documents\NetBeansProjects\FindMaterialsCovid\src\main\java\com\lh\utils\ControladoraSelenium.java
+C:\Users\hugan\Documents\NetBeansProjects\FindMaterialsCovid\src\main\java\com\lh\repository\MaterialRepository.java
+C:\Users\hugan\Documents\NetBeansProjects\FindMaterialsCovid\src\main\java\com\lh\service\MaterialService.java
+C:\Users\hugan\Documents\NetBeansProjects\FindMaterialsCovid\src\main\java\com\lh\controller\MaterialController.java
+C:\Users\hugan\Documents\NetBeansProjects\FindMaterialsCovid\src\main\java\com\lh\ColetaDeMateriaisApplication.java
